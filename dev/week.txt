@@ -1,0 +1,9 @@
+# A made-up week. Replace it with your real one.
+# Days are M T W Th F Sa Su, run together. Times under 8 are read as pm.
+
+MWF 9:05-9:55 Chem
+MWF 11:15-12:05 Calc
+MWF 2:30-3:20 Writing
+TTh 9:45-11:00 Bio
+TTh 1:00-2:15 Psych
+Th 3:35-5:30 Chem lab

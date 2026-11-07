@@ -1,0 +1,8 @@
+{
+  "name": "on-air",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
